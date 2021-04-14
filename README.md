@@ -2,6 +2,7 @@
 
 ## Indice
    * ### [Componentes](Observatorio/src/app/components)
+      * #### [Darktoggle](Observatorio/src/app/Darktoggle)
    * ### [Helpers](Observatorio/src/app/helpers)
    * ### [Models](Observatorio/src/app/models)
    * ### [Pages](Observatorio/src/app/pages)
