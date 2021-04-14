@@ -8,7 +8,7 @@
 * #### Boton logo UCR: un boton anclado en el margen superior derecho, su funcion es redirigir a la pagina de la Universidad de Costa Rica.
 * #### Boton filtrar: un boton anclado en el margen izquierdo, posee una barra deslegable que revela algunos botones los cuales al hacer click filtran los resultados mostrados en el curso de la pagina por las categorias seleccionadas.
 * #### Boton de regreso a la parte superior: un boton ubicado en el margen inferior derecho, se mueve junto con el scroll por lo cual no desaparece de la pantalla, su funcion es volver a la parte superior de la pagina al hacer click.
-* #### Cuerpo de la pagina: comprende el centro de la pagina web en esta seccion se despliegan los distintos posts que se agregan a la pagina
+* #### Cuerpo de la pagina: comprende el centro de la pagina web en esta seccion se despliegan los distintos posts que se agregan a la pagina, posee la propiedad de scroll infinito lo cual hace que al bajar a la pagina se carguen los demas posts con forme se baja en la lista.
 
 
 #### 
