@@ -2,7 +2,7 @@
 * ##### [URLparser](Observatorio/src/app/helpers/URLparser.ts)
 ## Indice
    * ### [Componentes](Observatorio/src/app/components)
-      * #### [Darktoggle](Observatorio/src/app/darktoggle)
+      * #### [Darktoggle](Observatorio/src/app/components/darktoggle)
       * #### [Fab](Observatorio/src/app/fab)
       * #### [Footer](Observatorio/src/app/footer)
       * #### [Navbar](Observatorio/src/app/navbar)
