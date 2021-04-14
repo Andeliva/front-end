@@ -1,7 +1,8 @@
-# Documentación externa Observatorio de información TCU 652 
-  
+# Documentación Observatorio de información TCU 652 
 
-```html
-<div class="infinite-scroll" infiniteScroll [infiniteScrollDistance]="2" (scrolled)="onScroll()">
-  ```
-[ Hello2.0](Observatorio/src/app/pages/blog/blog.component.html)
+#Algo
+##Algo
+####Algo
+#####Algo
+######Algo
+#######Algo
