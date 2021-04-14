@@ -8,6 +8,7 @@
       * #### [Navbar](Observatorio/src/app/navbar)
       * #### [Post-Card](Observatorio/src/app/post-card)
    * ### [Helpers](Observatorio/src/app/helpers)
+         * ##### [URLparser.ts](Observatorio/src/app/helpers/URLparser.ts)
    * ### [Models](Observatorio/src/app/models)
    * ### [Pages](Observatorio/src/app/pages)
       * #### [About](Observatorio/src/app/about)
