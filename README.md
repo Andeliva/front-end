@@ -1,4 +1,4 @@
 # Documentación Observatorio de información TCU 652 
 
 ## Indice
-   * ### [Componentes]
+   * ### [Componentes] {Observatorio/src/app/components}
