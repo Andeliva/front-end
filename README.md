@@ -2,3 +2,4 @@
 
 ## Indice
    * ### [Componentes](Observatorio/src/app/components)
+   * ### [Pages](Observatorio/src/app/components)
