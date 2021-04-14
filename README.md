@@ -2,4 +2,8 @@
 
 ## Indice
    * ### [Componentes](Observatorio/src/app/components)
-   * ### [Pages](Observatorio/src/app/components)
+   * ### [Helpers](Observatorio/src/app/helpers)
+   * ### [Models](Observatorio/src/app/models)
+   * ### [Pages](Observatorio/src/app/pages)
+   * ### [Services](Observatorio/src/app/services)
+
