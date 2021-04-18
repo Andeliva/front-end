@@ -23,5 +23,8 @@
    * ### [Environments](Observatorio/src/environments)
 
 ```
-
+.header-container{
+  background: linear-gradient(var(--navbar-gradient-01), var(--navbar-gradient-01)), url('../../../assets/patterns/p4.jpg');
+  background-repeat: repeat;
+  /* height: 150px; */
 ```
