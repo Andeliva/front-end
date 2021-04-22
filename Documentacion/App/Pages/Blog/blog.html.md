@@ -13,3 +13,5 @@
 
 ### Codigo
 
+```1 <div class="infinite-scroll" infiniteScroll [infiniteScrollDistance]="2" (scrolled)="onScroll()"> ```
+Hace un llamado a la funcion de scroll infinito, permite que la pagina conforme se baja siga cargando de forma activa las entradas, 
