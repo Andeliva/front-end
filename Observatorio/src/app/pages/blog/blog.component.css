@@ -33,6 +33,7 @@
     outline: none;
     color: var(--font1);
 }
+
 @media (max-width: 900px) {
     .custom-container {
         grid-template-columns: auto auto auto;
