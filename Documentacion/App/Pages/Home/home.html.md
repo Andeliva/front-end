@@ -1,18 +1,18 @@
 # Documentacion home.html
 
 ### Esta seccion contiene la documentacion del codigo .html del elemento home de la pagina web. Dentro de su estructura visual posee: 
-* ### Información de la pagina: Proyecto del Observatorio de Migración.
-* ### Titulo "Categorias": siguiente parte de categorias
-* ### Listado de las categorías existentes: contiene los nombres y las imágenes de las primeras ____ categorias 
-* ### Botón "ver más": opción para ser seleccionada y ver las demás categorias exixtentes   
-* ### Titulo "Publicaciones recientes": siguiente parte de publicaciones recientes
-* ### Listado de Post Cards: listado de los post cards de los post
-* ### Botón "Ir al blog": Botón que lleva al usuario al página del blog = /blog
-* ### Titulo "Eventos Proximos": siguiente parte de eventos próximos
-* ### Lista de actividades: para cada una de las activiades se puede observar el nombre, la fecha y "ver más información" que lleva a un modal
-* ### Modal de más informacion: muestra la informacion completa de la actividad, incluye el tituno que es el nombre, la fecha en formato extentido, el enlace a la actividad, su descripción y ________
+* Información de la pagina: Proyecto del Observatorio de Migración.
+*  Titulo "Categorias": siguiente parte de categorias
+*  Listado de las categorías existentes: contiene los nombres y las imágenes de las primeras ____ categorias 
+*  Botón "ver más": opción para ser seleccionada y ver las demás categorias exixtentes   
+* Titulo "Publicaciones recientes": siguiente parte de publicaciones recientes
+* Listado de Post Cards: listado de los post cards de los post
+* Botón "Ir al blog": Botón que lleva al usuario al página del blog = /blog
+* Titulo "Eventos Proximos": siguiente parte de eventos próximos
+* Lista de actividades: para cada una de las activiades se puede observar el nombre, la fecha y "ver más información" que lleva a un modal
+* Modal de más informacion: muestra la informacion completa de la actividad, incluye el tituno que es el nombre, la fecha en formato extentido, el enlace a la actividad, su descripción y ________
 
-* ### Footer: llamado al componente de footer
+* Footer: llamado al componente de footer que muestra los detalles descritos en dicho componente
 
 ### Codigo
 
@@ -69,7 +69,7 @@
 ```
 <br/>
 
-#### Segudamente un div que es un contenedor de elementos que contiene primeramente el titulo de "eventos pr+oximos", luego otro div del tipo custom-table para ser posible que en cada columna(row) se ecnuantre una actividad recividas por el NgFor de la lista de actividades, en la que para cada una de las actividades se mostrtá su nombre, fecha en formato de tamaño medio y por último un botón que dice ver "Ver más Información" y cuando se le hace click muestra un modal en la pantalla con la información completa de la actividad.
+#### Segudamente un div que es un contenedor de elementos que contiene primeramente el titulo de "eventos pr+oximos", luego otro div  de clase custom-table para ser posible que en cada columna(row) se ecnuantre una actividad recividas por el NgFor de la lista de actividades, en la que para cada una de las actividades se mostrtá su nombre, fecha en formato de tamaño medio y por último un botón que dice ver "Ver más Información" y cuando se le hace click muestra un modal en la pantalla con la información completa de la actividad.
 
 ``` html
     <div class="events-container">
@@ -88,7 +88,7 @@
 ```
 <br/>
 
-#### Modal de una actividad: Este codigo muestra la estucra html de un modal para una activdad
+### Modal de una actividad: Este codigo muestra la estucra html de un modal para una activdad
 #####  Primeramente el div tiene un id como activityModal, y se d efine su clases. Posteriomente se encuentra otro div que es el contenerdor del modal donde se va a tener un header-body-footer. El div del encabezado del modal tiene un titulo con el nombre de la actividad seleccionada. El div del cuerpo del modal donde se ubica la fecha en formato largo, un ngIf por si existe o no una reunión, en el caso de que exista se proporciona el enlace a la actividad  mediante un href, seguidamente su descripción y si existe al igual con un ngIf se muestra el contentHTML. Por último está el footer del modal en la que hay un botón para cerrar el modal.
 
 ``` html
