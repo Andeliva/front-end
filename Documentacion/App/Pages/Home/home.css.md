@@ -12,7 +12,7 @@
 * Lista de actividades: para cada una de las activiades se puede observar el nombre, la fecha y "ver más información" que lleva a un modal
 * Modal de más informacion: muestra la informacion completa de la actividad, incluye el tituno que es el nombre, la fecha en formato extentido, el enlace a la actividad, su descripción y ________
 
-* Footer: llamado al componente de footer que muestra los detalles descritos en dicho componente
+* Footer: muestra los detalles descritos en del componente footer
 
 ### Codigo
 text
