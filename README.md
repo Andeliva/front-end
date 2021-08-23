@@ -3,7 +3,7 @@
 ## Indice
    * ### [Componentes](Observatorio/src/app/components)
       * #### [Darktoggle](Observatorio/src/app/components/darktoggle)
-       * #### [Darktoggle CSS](Observatorio/src/app/components/darktoggle/darktoggle.css.md)
+        * #### [Darktoggle CSS](Documentacion/App/Components/Darktoggle/darktoggle.css.md)
       * #### [Fab](Observatorio/src/app/components/fab)
       * #### [Footer](Observatorio/src/app/components/footer)
       * #### [Navbar](Observatorio/src/app/components/navbar)
