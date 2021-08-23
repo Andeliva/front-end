@@ -1,17 +1,17 @@
 
-# Documentacion fab.css
+# Documentación fab.css
 
- Esta seccion contiene la documentacion del codigo .css del componente fab de la pagina web. Dentro de su estructura visual posee: 
-*  Boton de forma circular con una flecha: Visualmente es un boton ubicado en la parte inferior derecha de las paginas este boton permite al usuario volver al incio de la pagina, dicho boton posee forma circular con una flecha en direccion superior, se puede encontrar en las paginas de Directorio y Blog, además puede cambiar sus colores al alternar entre modo claro y modo oscuro para mejorar la legibilidad del mismo. 
+ Esta sección contiene la documentación del código .css del componente fab de la página web. Dentro de su estructura visual posee: 
+*  Botón de forma circular con una flecha: Visualmente es un botón ubicado en la parte inferior derecha de las paginas este botón permite al usuario volver al inicio de la página, dicho botón posee forma circular con una flecha en dirección superior, se puede encontrar en las páginas de Directorio y Blog, además puede cambiar sus colores al alternar entre modo claro y modo oscuro para mejorar la legibilidad de este. 
 
-### Codigo
+### Código
 
-Corresponde al relleno del boton este se define como una propiedades CSS que se utilizan para generar espacio alrededor del contenido de un elemento, dentro de los bordes definidos, ademas se le asigna el valor de 24px como base.
+Corresponde al relleno del botón este se define como una propiedad CSS que se utilizan para generar espacio alrededor del contenido de un elemento, dentro de los bordes definidos, además se le asigna el valor de 24px como base.
 ``` css
 padding: 20px;
 ```
 
-Corresponde a la propiedad de relleno del boton esta establece el ancho de un elemento, el ancho de un elemento no incluye relleno, bordes ni márgenes, el ancho para este boton se asigna como 100% que corresponde al tamaño base de la figura.
+Corresponde a la propiedad de relleno del botón esta establece el ancho de un elemento, el ancho de un elemento no incluye relleno, bordes ni márgenes, el ancho para este botón se asigna como 100% que corresponde al tamaño base de la figura.
 
 ``` css
 width: 100%;
@@ -28,12 +28,12 @@ Corresponde a la propiedad de del texto en el divisor, la justify-content alinea
 justify-content: flex-end;
 ```
 
-Corresponde a la propiedad de posicion especifica el tipo de método de posicionamiento utilizado para un elemento. La posicion Fixed está posicionada en relación con la ventana gráfica, lo que significa que siempre permanece en el mismo lugar incluso si se desplaza la página. Las propiedades superior, derecha, inferior e izquierda se utilizan para colocar el elemento.
+Corresponde a la propiedad de posición especifica el tipo de método de posicionamiento utilizado para un elemento. La posición Fixed está posicionada en relación con la ventana gráfica, lo que significa que siempre permanece en el mismo lugar incluso si se desplaza la página. Las propiedades superiores, derecha, inferior e izquierda se utilizan para colocar el elemento.
 ``` css
 position: fixed;
 ```
 
-Corresponde a la propiedad de tamaño del boton, esta se le asgino el valor de 10px de forma base.
+Corresponde a la propiedad de tamaño del botón, esta se le asigno el valor de 10px de forma base.
 ``` css
 bottom: 10px;
 ```
