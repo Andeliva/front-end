@@ -4,6 +4,8 @@
    * ### [Componentes](Observatorio/src/app/components)
       * #### [Darktoggle](Observatorio/src/app/components/darktoggle)
         * #### [Darktoggle CSS](Documentacion/App/Components/Darktoggle/darktoggle.css.md)
+        * #### [Darktoggle HTML](Documentacion/App/Components/Darktoggle/darktoggle.html.md)
+        * #### [Darktoggle TS](Documentacion/App/Components/Darktoggle/darktoggle.ts.md)
       * #### [Fab](Observatorio/src/app/components/fab)
       * #### [Footer](Observatorio/src/app/components/footer)
       * #### [Navbar](Observatorio/src/app/components/navbar)
