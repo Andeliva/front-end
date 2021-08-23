@@ -1,5 +1,4 @@
 # Documentación Observatorio de información TCU 652 
-* ##### [URLparser](Observatorio/src/app/helpers/URLparser.ts)
 ## Indice
    * ### [Componentes](Observatorio/src/app/components)
       * #### [Darktoggle](Observatorio/src/app/components/darktoggle)
