@@ -16,14 +16,14 @@
 
 ### Codigo
 
-#### Main text conteiner: contiene el texto de la infomracion del obsevatorio.
+Main text conteiner: contiene el texto de la infomracion del obsevatorio.
 
 ``` html 
     <div class="main-text-container"> El Observatorio de Migración es un proyecto ... </div>
 ```
 <br/>
 
-#### Titulo de las Categorías y un div como el contenedor de categorías el cual tiene otro div cde categoria con un ngFor de la lista de categorías filtrando los post por categoría en la que cada una se mostrará con su nombre e imagen la cual se recupera de la ruta en la que se encuentra  y con un ancho y altura establecido para midan lo mismo.
+Titulo de las Categorías y un div como el contenedor de categorías el cual tiene otro div cde categoria con un ngFor de la lista de categorías filtrando los post por categoría en la que cada una se mostrará con su nombre e imagen la cual se recupera de la ruta en la que se encuentra  y con un ancho y altura establecido para midan lo mismo.
 
 ``` html
     <h1 class="horizontal-bar horizontal-bar-01">Categorías</h1>
@@ -35,7 +35,7 @@
     </div>
 ```
 
-#### Un div de contenedor de acción el cual tiene un botón con el texto "Ver más" el cual al recibir un click llama la función de cargar las demás categorías que no han sido presentadas al usuario. 
+Un div de contenedor de acción el cual tiene un botón con el texto "Ver más" el cual al recibir un click llama la función de cargar las demás categorías que no han sido presentadas al usuario. 
   * falta: preguntar si se recarga solo esta parte para presentar en el ng for todas las categotías disponibles y preguntar cuantas enseña por default 
 
 ``` html

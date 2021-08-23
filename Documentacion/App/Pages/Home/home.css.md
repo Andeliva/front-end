@@ -15,7 +15,7 @@
 * Footer: muestra los detalles descritos en del componente footer
 
 ### Codigo
-text
+
 En cualquier atributo del home que tenga la clase main-text-container con las caracterítcas de un ancho del 50%, una altura de 36%, margenes de 10% y otro autmático y un tamaño del texto de 1.3 rem
 ``` css
 .main-text-container{
@@ -144,7 +144,7 @@ Especifica que en la clase custum table tendrá un ancho de un 60% donde el deta
 ```
 
 
-En cualquier atributo del home que tenga la clase .row se le van a definir estas caracteríticas donde el display va a ser flex y la dirección del flex por columna, la alineación de los intems que contenga será centrada, la justificación del contenido será space-between y tendrá un padding de 1.7rem y 0
+En cualquier atributo del home que tenga la clase .row se le van a definir estas caracteríticas donde el display va a ser flex y la dirección del flex por columna, la alineación de los items que contenga será centrada, la justificación del contenido será space-between y tendrá un padding de 1.7rem y 0
 ``` css
 .row{
     display: flex;
