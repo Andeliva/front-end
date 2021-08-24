@@ -1,4 +1,3 @@
-# Documentacion home.css
 
  Esta seccion contiene la documentacion del home.css del elemento Home de la pagina web. Dentro de su estructura visual posee: 
 * Información de la pagina: Proyecto del Observatorio de Migración.
