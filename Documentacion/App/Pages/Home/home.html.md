@@ -3,7 +3,7 @@
 ### Esta seccion contiene la documentacion del codigo .html del elemento home de la pagina web. Dentro de su estructura visual posee: 
 * ### Información de la pagina: Proyecto del Observatorio de Migración.
 * ### Titulo "Categorias": siguiente parte de categorias
-* ### Listado de las categorías existentes: contiene los nombres y las imágenes de las primeras ____ categorias 
+* ### Listado de las categorías existentes: contiene los nombres y las imágenes de las primeras 4  categorias 
 * ### Botón "ver más": opción para ser seleccionada y ver las demás categorias exixtentes   
 * ### Titulo "Publicaciones recientes": siguiente parte de publicaciones recientes
 * ### Listado de Post Cards: listado de los post cards de los post
@@ -11,7 +11,6 @@
 * ### Titulo "Eventos Proximos": siguiente parte de eventos próximos
 * ### Lista de actividades: para cada una de las activiades se puede observar el nombre, la fecha y "ver más información" que lleva a un modal
 * ### Modal de más informacion: muestra la informacion completa de la actividad, incluye el tituno que es el nombre, la fecha en formato extentido, el enlace a la actividad, su descripción y ________
-
 * ### Footer: llamado al componente de footer
 
 ### Codigo
