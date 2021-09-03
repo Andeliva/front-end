@@ -1,7 +1,11 @@
 # Documentacion navbar.css
 
  Esta seccion contiene la documentacion del navbar.css del componente navbar de la pagina web. Dentro de su estructura visual posee: 
-* item:item
+* Darktoogle : llamado al componente darktoggle, es el botón para cambiar entre el modo claro y el modo oscuro el tema de la página
+* Logo UCR : logo representativo de la Universidad de Costa Rica, al dar click redirige a la página inicial   de la universidad
+* Observatorio de Migración: nombre de la página que al dar click redirige a la página principal del observatorio
+* Barra de navegación : muestra las diferentes opciones de pagínas para que el usuario pueda navegar a treavez de ellas,  entre ellas se encuentran el inicio, blog, nosotros, directorio
+* Barra de  decoración : es ua barra cuya unica funcionalidad es mostrar la misma imagen que la barra de arriba para efectos de estética, una mejor visualización de la página
 
 ### Codigo
 

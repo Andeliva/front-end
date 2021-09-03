@@ -1,17 +1,39 @@
 # Documentacion darktoggle.html
 
 ### Esta seccion contiene la documentacion del codigo .html del componente daktoggle de la pagina web. Dentro de su estructura visual posee: 
-*  item: item
+*  Butón de darktoggle: Es un botón con dos iconos que al dar click cambia el tema de la página,  un sol para cambiar al  tema claro y una luna para cambiar al tema oscuro
 
 ### Codigo
-* falta analizar
- 
+
+Este label encapsula el codigo siguiente del div de clase toggle, su funcionalidad es ser una etiqueta para un elemento en una interfaz de usuario asociada al control for identificado por toggle y de la clase toggle-wrapper
+
 ``` html 
 <label class="toggle-wrapper" for="toggle">
+     <!-- code -->
+</label>
+``` 
+
+Este div encapsula los siguientes dos elementos, el span de clase hidden y el div de clase icons. Es de  clase toggle y para este caso de algular incluye propiedades para para activar o desactivar el botón y en este caso para verificar también si está activado o no
+``` html
     <div class="toggle {{isEnabled ? 'enabled' : 'disabled'}}">
+        <!-- code -->
+     </div>
+``` 
+
+Span de la clase hidden que verifica si la varibale isEnables tiene alguno de los valores***************************
+```  html
         <span class="hidden">
             {{isEnabled ? "Enable" : "Disable"}}
         </span>
+         <!-- code -->
+```  
+
+Este div de la clase icons sirve para el manejo de los modos claro(sun) u oscuro(moon). 
+* Sun & moon  : 
+  * Primero con el SVG se proporciona una declaración de espacio de nombres cuando SVG se analiza como XML, posterior a esto el se presenta el path *********************
+* Botón de toggle : Es un input de id toggle, con tambipen nombre toggle, de tipo checkbox, el cual está en check si la variable isEnabled dice que está activado y al usuario dar click se llama el método toggleState()
+```  html
+         <!-- code  -->
         <div class="icons">
             <!-- sun -->
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -31,6 +53,4 @@
 
         </div>
         <input id="toggle" name="toggle" type="checkbox" checked={{isEnabled}} (click)="toggleState();" />
-    </div>
-</label>
 ``` 

@@ -1,16 +1,18 @@
 # Documentacion darktoggle.css
 
  Esta seccion contiene la documentacion del darktoggle.css del componente darktoggle de la pagina web. Dentro de su estructura visual posee: 
-* item:item
+*  Butón de darktoggle: Es un botón con dos iconos que al dar click cambia el tema de la página,  un sol para cambiar al  tema claro y una luna para cambiar al tema oscuro
 
 ### Codigo
-* falta analizar
+
+Configura por ser  * a todos los elementos del componente para que definir su ancho y largo segpun borden-box
 ``` css
 * {
   box-sizing: border-box;
 }
 ``` 
 
+En cualquier atributo del navbar que tenga la clase hidden tendrá las propiedades de 
 ```  css
 .hidden {
   clip: rect(0 0 0 0);
@@ -22,6 +24,8 @@
   width: 1px;
 }
 ``` 
+
+En cualquier atributo del navbar que tenga la clase toggle-wrapper tendrá un acho de 65px y un display de tipo block
 ```  css
 .toggle-wrapper {
   /* width: 130px; */
@@ -30,6 +34,7 @@
 }
 ``` 
 
+En cualquier atributo del navbar que tenga la clase  toggle tendrá caracteristicas de una altura de 30px, un ancho de 65px, fondo del color de la variable black-toggle, el radio del borde de 40px, un padding de 6px, la posición relaitva, margen automático, el cursor de tipo poiter, el  fondo del color de la variable foreground-toggle y una transición de color de la variable transition-toggle 
 ```  css
 .toggle {
   /* height: 65px;
@@ -47,6 +52,8 @@
   transition: background var(--transition-toggle);
 }
 ``` 
+
+En cualquier atributo del navbar que tenga la clase  toggle
 ```  css
 .toggle::before {
   content: "";
@@ -65,6 +72,8 @@
   transition: transform var(--transition-toggle), background var(--transition-toggle);
 }
 ``` 
+
+
 ```  css
 .toggle.enabled::before {
   transform: translateX(35px);
