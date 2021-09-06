@@ -1,5 +1,5 @@
 # Documentación Observatorio de información TCU 652 
-## Indice
+## Indice de comentarios del codigo
    * ### [Componentes](Observatorio/src/app/components)
       * #### [Codigo Darktoggle](Observatorio/src/app/components/darktoggle)
         * #### [Documentacion Darktoggle CSS](Documentacion/App/Components/Darktoggle/darktoggle.css.md)
@@ -55,3 +55,38 @@
    * ### [Assets](Observatorio/src/assets)
    * ### [Environments](Observatorio/src/environments)
 
+## Definiciones, acronimos y abreviaturas
+
+**Inicio**: pagina principal del sitio web.
+**Blog**: pagina que recopila todas las publicaciones que se han realizado en la sitio web.
+**Nosotros**: pagina que brinda un apartado informativo sobre los involucrados en el proyecto.
+**Directorio**: Apartado ubicado en la pagina inicio que brinda informacion de contacto con algunos entes afines al proyecto de TCU
+**Publicaciones**: elementnos informativos publicados en la pagina para ser consultados por los usuarios que visiten el sitio web.  
+**Eventos**: Registro de eventos informativos, estos poseen titulo, fecha, enlace y descripcion.
+**Categorias**: Clasificaciones que posee la pagina para aplicar a las distintas publicaciones que se registren.
+**Contacto**: Informacion especifica sobre algun ente a fin al proyecto
+**UCR**: Universidad de Costa Rica
+
+## Introduccion
+La función de este documento es explicar y detallar las tecnologías, diseños y funcionalidades de la pagina del Observatorio de Migración, este consiste en un sitio web en el que se realizan publicaciones informativas sobre temas relaciones con migracion. Además, proporciona contactos, eventos y enlaces a material de ayuda para los usuarios de la página.
+
+El documento está compuesto por una portada, introducción, miembros del equipo de desarrollo, descripciones del sistema, artefactos de la base de datos utilizados, decisiones técnicas y bibliografía
+
+## Listado de equipos y miembros de los equipos
+
+## Descripción General del sistema
+
+Esta es una pagina web creada para el proyecto de TCU 652 de la Universidad de Costa Rica. Este proyecto viene a servir de herramienta para la publicacion de informacion y contenido relacionada con las distintas tematicas del proyecto. La pagina presenta funcionalidades para agregar publicaciones, contcatos y eventos mediante la administracion del backend, su contenido es enfocado a la consulta e informacion por lo que a traves de ella solo pueden realizar consultas.
+
+## Problema que resuelve
+
+## Interesados del proyecto y tipos de usuarios
+
+## Solución propuesta
+
+## Visión del producto
+
+
+## Requerimientos
+
+## Problema que resuelve
