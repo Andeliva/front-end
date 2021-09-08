@@ -20,7 +20,7 @@ Este div encapsula los siguientes dos elementos, el span de clase hidden y el di
      </div>
 ``` 
 
-Span de la clase hidden que verifica si la varibale isEnables tiene alguno de los valores***************************
+Span de la clase hidden que verifica si la varibale isEnables tiene alguno de los valores
 ```  html
         <span class="hidden">
             {{isEnabled ? "Enable" : "Disable"}}
@@ -30,7 +30,7 @@ Span de la clase hidden que verifica si la varibale isEnables tiene alguno de lo
 
 Este div de la clase icons sirve para el manejo de los modos claro(sun) u oscuro(moon). 
 * Sun & moon  : 
-  * Primero con el SVG se proporciona una declaración de espacio de nombres cuando SVG se analiza como XML, posterior a esto el se presenta el path *********************
+  * Primero con el SVG se proporciona una declaración de espacio de nombres cuando SVG se analiza como XML, posterior a esto el se presenta el path de los iconos del sol y la luna
 * Botón de toggle : Es un input de id toggle, con tambipen nombre toggle, de tipo checkbox, el cual está en check si la variable isEnabled dice que está activado y al usuario dar click se llama el método toggleState()
 ```  html
          <!-- code  -->

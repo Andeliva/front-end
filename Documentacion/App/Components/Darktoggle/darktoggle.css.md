@@ -73,13 +73,15 @@ En cualquier atributo del navbar que tenga la clase  toggle
 }
 ``` 
 
-
+En cualquier atributo del navbar que tenga la clase toggle que 
 ```  css
 .toggle.enabled::before {
   transform: translateX(35px);
   /* transform: translateX(65px); */
 }
-``` 
+```
+
+Los elementos de input que se encuantren
 ```  css
 .toggle input {
 	position: absolute;
