@@ -74,15 +74,30 @@ El documento está compuesto por una portada, introducción, miembros del equipo
 
 ## Listado de equipos y miembros de los equipos
 
+* Eduardo
+* Jose David
+* Jim
+* Andrey
+* Stephanie
+
+
 ## Descripción General del sistema
 
 Esta es una pagina web creada para el proyecto de TCU 652 de la Universidad de Costa Rica. Este proyecto viene a servir de herramienta para la publicacion de informacion y contenido relacionada con las distintas tematicas del proyecto. La pagina presenta funcionalidades para agregar publicaciones, contcatos y eventos mediante la administracion del backend, su contenido es enfocado a la consulta e informacion por lo que a traves de ella solo pueden realizar consultas.
 
 ## Problema que resuelve
+Falta de un lugar que brinde información  centralizada sobre los procesos, actividades y recursos acerca de temas para las personas migrantes. 
+
 
 ## Interesados del proyecto y tipos de usuarios
 
+* Personas que atraviecen un proceso migratorio
+* Investigadores y estudiantes interesados en los procesos migratorios
+* Personas atraviecen un proceso de naturalización
+
 ## Solución propuesta
+
+Se busca lograr abarcar, de manera sencilla y fácil de comprender, la mayor cantidad de información posible que sea de utilidad para las personas migrantes y a su vez simplificar los procesos ante los que se podrían encontrar en las instituciones del país.
 
 ## Visión del producto
 
